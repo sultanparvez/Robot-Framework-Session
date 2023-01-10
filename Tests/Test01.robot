@@ -11,6 +11,6 @@ Validate User is able to login
     Fill up username and password
     Click on Login
     Validate Products text is visible
-
+    Validate Dropdown works
 
     
