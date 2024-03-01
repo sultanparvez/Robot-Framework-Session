@@ -1,5 +1,7 @@
 UI-Automation-Robot-Framework
 
+This is an Automation Project That Uses Robot Framework for UI Automation
+
 ## Included
 * python
 * robotframework
